@@ -1,0 +1,3 @@
+# Project exclude paths
+/out/
+/out/artifacts/books_war_exploded/WEB-INF/classes/
